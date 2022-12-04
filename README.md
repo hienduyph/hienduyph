@@ -1,12 +1,17 @@
-# [Hien's Notes](https://www.hienph.dev)
+# Hien Pham
 
-<center>
-  <a href="https://stackoverflow.com/users/7567559/hienduyph" title="stackoverflow" target="_blank">
-  <img height="300px"
-    src="https://stackoverflow-card.vercel.app/?userID=7567559&theme=dracula"
-  />
-  </a>
-</center>
+## [Blogs](https://www.hienph.dev)
+
+<div>
+  <a href="https://t.me/hienduyph" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%23086DD7?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="https://www.hienph.dev" target="_blank"><img src="https://img.shields.io/badge/-Blogs-%237719AA?style=for-the-badge&logo=microsoftonenote&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/hienduyph" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23E4405F?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href = "mailto:hienduyph@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/hienduyph" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+</div>
+
+![Snake animation](https://github.com/hienduyph/hienduyph/blob/output/github-contribution-grid-snake.svg)
 
  <div>
   <a href="https://github.com/hienduyph">
@@ -24,14 +29,11 @@
   <img align="center" alt="hienduyph-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-  ##
+<center>
+  <a href="https://stackoverflow.com/users/7567559/hienduyph" title="stackoverflow" target="_blank">
+  <img height="300px"
+    src="https://stackoverflow-card.vercel.app/?userID=7567559&theme=dracula"
+  />
+  </a>
+</center>
 
-<div>
-  <a href="https://www.hienph.dev" target="_blank"><img src="https://img.shields.io/badge/-Blogs-%237719AA?style=for-the-badge&logo=microsoftonenote&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/hienduyph" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23E4405F?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href = "mailto:hienduyph@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/hienduyph" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-  ![Snake animation](https://github.com/hienduyph/hienduyph/blob/output/github-contribution-grid-snake.svg)
-
-</div>

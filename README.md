@@ -23,17 +23,3 @@
 </div>
 
 ![Snake animation](https://github.com/hienduyph/hienduyph/blob/output/github-contribution-grid-snake.svg)
-
- <div>
-  <a href="https://github.com/hienduyph">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hienduyph&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hienduyph&layout=compact&langs_count=14&theme=dracula&exclude_repo=Oxford-DeepNLP-2017&cache_seconds=86400"/>
-</div>
-<center>
-  <a href="https://stackoverflow.com/users/7567559/hienduyph" title="stackoverflow" target="_blank">
-  <img height="300px"
-    src="https://stackoverflow-card.vercel.app/?userID=7567559&theme=dracula"
-  />
-  </a>
-</center>
-

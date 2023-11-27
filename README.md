@@ -19,7 +19,6 @@
   <a href="https://twitter.com/hienduyph" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23E4405F?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:hienduyph@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hienduyph" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
 </div>
 
 ![Snake animation](https://github.com/hienduyph/hienduyph/blob/output/github-contribution-grid-snake.svg)

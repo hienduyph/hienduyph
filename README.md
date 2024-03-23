@@ -1,7 +1,7 @@
 # Hien Pham
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="hienduyph-rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
+  <img align="center" alt="hienduyph-rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
   <img align="center" alt="hienduyph-go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-plain.svg">
   <img align="center" alt="hienduyph-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="hienduyph-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
